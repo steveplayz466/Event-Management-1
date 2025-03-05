@@ -1,0 +1,22 @@
+body {
+    background-image: url("istockphoto-1821915184-1024x1024.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-blend-mode: black;
+  }
+h1{
+    font-size: 40px;
+    padding-right: 50px;
+    padding-left: 800px;
+    color: rgb(255, 10, 10);
+    font-style: bold;
+
+} 
+imagesrc{
+    width: 5%;
+    height: 5%;
+    border-radius: 5%;
+    margin: 5px;
+
+} 
