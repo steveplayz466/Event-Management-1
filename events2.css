@@ -9,10 +9,15 @@ h1{
     font-size: 40px;
     padding-right: 50px;
     padding-left: 800px;
-    color: rgb(255, 10, 10);
+    color: #5db9ee;
     font-style: bold;
 
 } 
+h2{
+    font-style: italic;
+    font-style: bold;
+    color: rgb(255, 255, 255);
+}
 imagesrc{
     width: 5%;
     height: 5%;
