@@ -12,7 +12,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif; }
+    font-family: 'Poppins', sans-serif;  }
 
 
 .portfolio-container{
@@ -39,7 +39,7 @@
 			.  .enq-btn   color: #fff; padding: 10px 25px; border: none; background-image: linear-gradient(45deg, #58A1D3, #8DE0D9); box-shadow: 2px 2px 0 1px #000000;  
 			.prog-info:hover   background-color: #5C4DDB; color:#ffffff;  
 			.prog-info:hover .icon-part img  filter:hue-rotate(45deg);  
-}}
+}
 .navlist{
     display: flex;
     gap: 3.5rem;
@@ -229,12 +229,6 @@ height: 80px;
 .first{
     color:#fff;
 }
-
-
-
-
-
-
 indextu.html{
     color: #333;
-}
+}                       
