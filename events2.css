@@ -1,5 +1,6 @@
 body {
-    background-image: url("istockphoto-1821915184-1024x1024.jpg");
+    background-image: url("360_F_1035413776_di3qvDQWpP5C7nOElzGsTWoe33FfQweC.webp");
+    ;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -25,3 +26,48 @@ imagesrc{
     margin: 5px;
 
 } 
+p{
+    font-size: 50px;
+    padding-right: 50;
+    color: aqua;
+    
+}
+form{
+    width: 100%;
+    height: 40%;
+    padding-left: 20px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    flood-opacity: rgb(0, 191, 255);
+    opacity: 100;
+
+}
+select{
+    width: 30%;
+    height: 50%;
+    padding: 20px;
+    padding-left: 100;
+
+}
+input[type=submit] {
+    padding:5px; 
+    padding-bottom: 100;
+    border:2px solid #00eeff; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+input[type=submit]:focus {
+    border-color:#333;
+}
+
+input[type=submit] {
+    padding:10px 60px; 
+
+    padding-bottom:100;
+    background:#00fbff; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 10px;
+    border-radius: 10px; 
+}
